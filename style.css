@@ -1,0 +1,118 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url("https://th.bing.com/th/id/OIP.OwoiThC4lDKdBsJ2WH4G_gHaDX?w=319&h=159&c=7&o=5&dpr=1.25&pid=1.7");
+  background-size: cover;
+}
+.navbar{
+  height: 80px;
+  width: 100%;
+  background: papayawhip;
+}
+.navbar ul{
+  float: right;
+}
+h1{
+  color: orchid;
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+.first-img{
+  float: left;
+  margin: 20px;
+  margin-left: 100px;
+  display: block;
+  width: 450px;
+  height: 300px;
+}
+.second-img{
+  float: right;
+  margin: 20px ;
+  margin-right: 100px;
+  display: block;
+  width: 450px;
+  height: 300px;
+}
+.first-div{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 340px;
+}
+p{
+  font-size: 25px;
+}
+table, th, td {
+  border: 1px solid red;
+}
+table {
+  width: 95%;
+  margin: auto;
+}
+th {
+  text-decoration: underline; 
+  font-size: 25px;
+  height: 100px;
+}
+td {
+  font-size: 20px;
+  height: 80px;
+  width: 100px;
+  padding: 30px;
+}
+.ms{
+  display: block;
+  width: 400px;
+  height: 300px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px dotted magenta;
+}
+.hp{
+  display: block;
+  width: 400px;
+  height: 300px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px dotted magenta;
+}
+.sam{
+  display: block;
+  width: 400px;
+  height: 300px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px dotted magenta;
+}
+.huawei{
+  display: block;
+  width: 400px;
+  height: 300px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px dotted magenta;
+}
+mark{
+  background-color: plum;
+}
+footer{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: center; 
+  background-color: papayawhip;
+  font-size: 15px;
+ }
+
+
+
+
+
+
